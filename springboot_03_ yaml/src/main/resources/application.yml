@@ -1,0 +1,13 @@
+country: 重庆
+user1:
+  name: 小明
+  age: 不告诉你
+likes:
+  - music
+  - game
+  - sleep
+datasource:
+  druiddriver: com.mysql.cj.jdbc.Driver
+  druidurl: jdbc:mysql://localhost:3306/cd_db02
+  druidusername: root
+  druidpassword: cdviviany
